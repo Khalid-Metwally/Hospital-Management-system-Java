@@ -1,0 +1,4 @@
+Specialization,FloorNo,Capacity
+Cancer,1,1
+Asthama,2,2
+Asthma,2,20

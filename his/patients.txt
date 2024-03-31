@@ -1,0 +1,4 @@
+Patient ID,Patient Name, Illness,Floor
+1234,Maggy,Cancer,1
+11,test,test,2
+5555,Hafiz,Sick,2

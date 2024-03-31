@@ -1,0 +1,4 @@
+Doctor ID, Name, Password,Specialization,Floor,Status,FirstLogin
+1,Ibrahim,ibrahim@12,Chest,1,1,1
+1234,khurram123,lT5zaCbPAY,Chest,1,1,1
+44,khalid,rVokftjlcT,Chect,1,1,1
